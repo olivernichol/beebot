@@ -1,0 +1,29 @@
+{
+  "name": "beebot",
+  "version": "3.1.0",
+  "description": "",
+  "main": "beebot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.1.0",
+    "@keyv/sqlite": "^2.0.2",
+    "axios": "^0.19.2",
+    "discord.js": "^12.1.1",
+    "ffmpeg-static": "^4.1.1",
+    "keyv": "^4.0.1",
+    "librcon": "^1.0.3",
+    "prism-media": "^1.2.1",
+    "random-int": "^2.0.1",
+    "rcon-client": "^4.2.0",
+    "sequelize": "^5.21.13",
+    "sleep": "^6.1.0",
+    "sqlite3": "^4.2.0",
+    "xmlhttprequest": "^1.8.0",
+    "ytdl-core": "^2.1.0",
+    "ytdl-core-discord": "^1.2.0"
+  }
+}
